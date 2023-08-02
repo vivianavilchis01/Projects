@@ -1,3 +1,5 @@
+library(dslabs)
+library(dplyr)
 data(heights)
 options(digits = 3)    # 3 cifras significativas
 #Determinar cuántas personas están por arriba de la altura promedio
