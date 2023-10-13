@@ -1,3 +1,4 @@
+#importar bibliotecas y datos
 library(dslabs)
 library(dplyr)
 data(heights)
